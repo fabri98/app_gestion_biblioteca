@@ -1,1 +1,1 @@
-# app_gestion_biblioteca
+# Aplicación de escritorio para la gestión de una biblioteca
